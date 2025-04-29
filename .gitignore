@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.npy
+*.h5
+*.joblib
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+
+# Git
+*.swp
+*.lock
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
